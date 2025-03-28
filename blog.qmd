@@ -1,0 +1,15 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+---
+
+## My Thoughts and Insights
+
+Welcome to my blog! Here you'll find my thoughts, insights, and experiences on various topics related to technology, innovation, and personal growth.

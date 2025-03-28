@@ -1,0 +1,47 @@
+---
+title: "Decoding Ancient Sounds: Chinese Music Notation Through the Ages"
+author: "Chao Liang"
+date: "2025-03-15"
+categories: [Music History, Chinese Music, Notation]
+image: "../images/blog1.jpg"
+---
+
+## Decoding Ancient Sounds: Chinese Music Notation Through the Ages
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl.
+
+### Lorem Ipsum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl.
+
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Nullam euismod, nisl eget aliquam ultricies
+- Nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl
+
+### Dolor Sit Amet
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl:
+
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Nullam euismod, nisl eget aliquam ultricies
+- Nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl
+
+### Consectetur Adipiscing Elit
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl.
+
+```
+Lorem ipsum dolor sit amet
+Consectetur adipiscing elit
+Nullam euismod, nisl eget aliquam ultricies
+Nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl
+```
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+
+### Nullam Euismod
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl.

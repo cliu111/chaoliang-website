@@ -1,0 +1,50 @@
+---
+title: "Harmonious Healing: The Intersection of Music (樂) and Medicine (藥) in Early China"
+author: "Chao Liang"
+date: "2025-02-20"
+categories: [Music History, Chinese Medicine, Sound Studies]
+image: "../images/blog2.jpg"
+---
+
+## Harmonious Healing: The Intersection of Music (樂) and Medicine (藥) in Early China
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+### Lorem Ipsum Dolor
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat:
+
+| Lorem | Ipsum | Dolor | Sit | Amet |
+|-------|-------|-------|-----|------|
+| Dolor | Sit | Amet | Consectetur | Adipiscing |
+| Ipsum | Dolor | Sit | Amet | Consectetur |
+| Lorem | Ipsum | Dolor | Sit | Amet |
+| Amet | Consectetur | Adipiscing | Elit | Sed |
+| Consectetur | Adipiscing | Elit | Sed | Do |
+
+### Sit Amet Consectetur
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+### Adipiscing Elit Sed
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua:
+
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+Laboris nisi ut aliquip ex ea commodo consequat.
+```
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+### Tempor Incididunt
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua:
+
+1. **Lorem ipsum**: Dolor sit amet, consectetur adipiscing elit
+2. **Sed do eiusmod**: Tempor incididunt ut labore et dolore magna
+3. **Ut enim ad minim**: Veniam, quis nostrud exercitation ullamco
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

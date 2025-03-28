@@ -1,0 +1,17 @@
+---
+title: "Welcome to My Personal Website"
+---
+
+## Hello, I'm Chao Liang
+
+Welcome to my personal website! I'm a music researcher and composer with a focus on Chinese music, ethnomusicology, and sound studies. My work explores the fascinating relationship between music-making and the cultural history of China.
+
+![Profile Image](images/profile.jpg)
+
+### What You'll Find Here
+
+- **[About Me](about.qmd)**: Learn more about my background, skills, and interests
+- **[My Work](work.qmd)**: Explore my projects and professional achievements
+- **[Blog](blog.qmd)**: Read my thoughts and insights on various topics
+
+Feel free to explore and connect with me through the social media links in the footer!

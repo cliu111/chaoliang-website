@@ -1,0 +1,85 @@
+---
+title: "My Work"
+---
+
+## Academic Research Portfolio
+
+Here's a showcase of my academic research papers and projects exploring the intersections of music, culture, and history in China.
+
+### Research Papers
+
+#### Voiced-sentiments (音情): the Expressiveness of Tonal Prosody in Early Medieval China
+
+![Research Paper](images/project1.jpg)
+
+**Course**: CHNSLIT 229R: Topics in Early Medieval Literature
+
+**Date**: Fall 2024
+
+**Description**: This research explored the intricate relationship between prosodic euphony and the expression of sentiments (情) in poetry since the Yongming period (483-493 C.E.). The study examined how tonal patterns in early medieval Chinese poetry created an auditory experience that enhanced emotional expression.
+
+**Key Areas of Investigation**:
+- Historical development of tonal prosody in Chinese poetry
+- The concept of 音情 (voiced-sentiments) in literary theory
+- Relationship between phonological features and emotional expression
+- Analysis of representative poetic works from the Yongming period
+
+---
+
+#### Music (樂) and Medicine (藥) in Early China
+
+![Research Paper](images/project2.jpg)
+
+**Course**: EASTD 170: Medicine and the Self in China and the West
+
+**Date**: Spring 2024
+
+**Description**: This paper investigated the connection between music and medicine in early China, tracing the development of music therapy concepts from paleographical sources to the influential medical treatise Huangdi Neijing. The research highlighted how musical practices were integrated into healing traditions.
+
+**Key Areas of Investigation**:
+- Etymological connections between music (樂) and medicine (藥)
+- Music therapy concepts in early Chinese medical texts
+- The role of the five tones in correlative cosmology and medicine
+- Practical applications of music in traditional Chinese healing practices
+
+---
+
+#### Jazz with 'Chinese Characteristics': Institutionalization and the Politics of Jazz in China Today
+
+![Research Paper](images/project3.jpg)
+
+**Course**: MUSIC 230R: Music and the Transpacific
+
+**Date**: Fall 2023
+
+**Description**: This research investigated the reintroduction of jazz in China after the "Reform and Opening" period, with a particular focus on its integration into conservatory education and its role in cultural diplomacy. The study examined how jazz has been adapted within Chinese institutional contexts while serving as a rare site of U.S.-China grassroots collaboration.
+
+**Key Areas of Investigation**:
+- Historical trajectory of jazz in China before and after the Cultural Revolution
+- Jazz education in Chinese conservatories and music schools
+- The role of jazz in One Belt, One Road cultural initiatives
+- Case studies of collaborative projects between American and Chinese jazz musicians
+
+---
+
+#### Sound Visualization and Notation Culture within Marquis Yi of Zeng's Tomb
+
+![Research Paper](images/project4.jpg)
+
+**Course**: HAA 283K: Syncretic Art in Early China
+
+**Date**: Fall 2022
+
+**Description**: This research identified visual motifs as potential sound visualizations and music notations through artifacts discovered in Marquis Yi of Zeng's tomb (dated to approximately 433 BCE). The study proposed an interplay between visual arts and music, highlighting the syncretic nature and cultural significance of music in Warring States-era funeral rituals.
+
+**Key Areas of Investigation**:
+- Analysis of visual patterns on musical instruments from the tomb
+- Comparison with known early notation systems in China
+- The ritual significance of musical instruments in burial contexts
+- Interdisciplinary approaches to understanding ancient Chinese music practices
+
+---
+
+## Want to Collaborate?
+
+I'm always open to new project ideas and collaborations. If you have a project in mind or would like to work together, please [contact me](about.qmd#let-s-connect).
