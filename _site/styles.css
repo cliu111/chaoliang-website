@@ -1,0 +1,185 @@
+/* Additional custom CSS styles */
+
+/* Modern minimalist styling */
+
+/* Content spacing and layout */
+.content-block {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Modern card styling */
+.card {
+  border: none;
+  background-color: var(--bs-body-bg);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.card-footer {
+  background-color: transparent;
+  border-top: 1px solid var(--bs-border-color);
+}
+
+/* Clean list styling */
+.list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.list-item {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--bs-border-color);
+}
+
+.list-item:last-child {
+  border-bottom: none;
+}
+
+/* Refined image styling */
+.figure {
+  margin: 2rem 0;
+}
+
+.figure img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.figure-caption {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  color: var(--bs-secondary-color);
+}
+
+/* Clean table styling */
+table {
+  border: none;
+  width: 100%;
+}
+
+thead {
+  border-bottom: 2px solid var(--bs-border-color);
+}
+
+th {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+}
+
+/* Subtle animations */
+a {
+  transition: color 0.2s ease;
+}
+
+button, .btn {
+  transition: all 0.2s ease;
+}
+
+/* Blog post styling */
+.quarto-post {
+  margin-bottom: 3rem;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s ease;
+}
+
+.quarto-post:hover {
+  transform: translateY(-3px);
+}
+
+.listing-categories .listing-category {
+  background-color: rgba(var(--bs-primary-rgb), 0.1);
+  color: var(--bs-primary);
+  border: none;
+  border-radius: 4px;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+/* Navbar refinements */
+.navbar-brand img {
+  height: 30px;
+  margin-right: 0.5rem;
+}
+
+/* Footer refinements */
+.page-footer {
+  font-size: 0.875rem;
+}
+
+.page-footer a {
+  color: var(--bs-primary);
+  text-decoration: none;
+}
+
+.page-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Dark mode adjustments */
+html[data-bs-theme="dark"] .card {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+/* Minimalist button styling */
+.btn {
+  border-radius: 4px;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border: none;
+  box-shadow: none;
+}
+
+.btn-primary {
+  background-color: var(--bs-primary);
+}
+
+.btn-outline-primary {
+  border: 1px solid var(--bs-primary);
+  color: var(--bs-primary);
+}
+
+/* Code block refinements */
+code {
+  font-size: 0.875em;
+  color: var(--bs-code-color);
+  word-wrap: break-word;
+}
+
+pre {
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  overflow: auto;
+  font-size: 0.875em;
+  border-radius: 4px;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.25rem;
+  }
+  
+  .content-block {
+    padding: 1.5rem 1rem;
+  }
+}
